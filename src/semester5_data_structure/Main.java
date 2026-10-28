@@ -3,7 +3,7 @@ package semester5_data_structure;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         ArrayList<Delivery> deliveries = new ArrayList<>();
